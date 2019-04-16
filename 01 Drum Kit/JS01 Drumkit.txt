@@ -1,0 +1,2 @@
+Combine a Drum Kit app with a Drum Machine - Music Maker
+A basic (to start) Drum kit app, with the addition of the make functions. Add, edit, and polish your recordings!
