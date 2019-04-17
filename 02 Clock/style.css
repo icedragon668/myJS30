@@ -53,5 +53,9 @@ body {
   }
 
   .hour-hand {
-    border: 1px 2px 1px 0px solid blue;
+    border: 1px solid black;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-radius: 50px 0px 0px 50px;
+
   }
