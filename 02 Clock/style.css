@@ -45,4 +45,9 @@ body {
     top: 50%;
     transform: rotate(90deg);
     transform-origin: 100%;
+    transition: all 0.5s cubic-bezier(0.18, 2.55, 0, 0.9);
   }  
+
+  .second-hand {
+    transform: rotate(90deg);
+  }
